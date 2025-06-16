@@ -7,3 +7,5 @@ BAS Capstone
 
 Power Point Presentation on SSIS [SSIS.pptx](https://github.com/user-attachments/files/20448886/SSIS.pptx)
 
+This is my final presentation covering my Capstone 
+[Capstone Presentation.pptx](https://github.com/user-attachments/files/20748293/Capstone.Presentation.pptx)
